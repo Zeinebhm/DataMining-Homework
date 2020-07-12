@@ -1,0 +1,15 @@
+@relation bilan
+@attribute produit1 {o,n}
+@attribute produit2 {o,n}
+@attribute produit3 {o,n}
+@attribute produit4 {o,n}
+@attribute produit5 {o,n}
+@data
+o,n,n,o,o
+o,o,n,n,o
+n,n,n,n,o
+n,n,o,o,o
+o,o,o,o,o
+o,n,n,n,o
+o,n,n,o,o
+n,o,o,n,n
